@@ -75,6 +75,4 @@ http://127.0.0.1:8050/
 * Alert notifications (Email/SMS)
 * Docker deployment
 
-## 📜 License
 
-MIT License
